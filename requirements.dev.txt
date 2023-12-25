@@ -1,7 +1,7 @@
 -r requirements.txt
 build==1.0.3
 commitizen==3.13.0
-mypy==1.7.1
+mypy==1.8.0
 ruff==0.1.8
 types-Pillow==10.1.0.2
 twine==4.0.2
