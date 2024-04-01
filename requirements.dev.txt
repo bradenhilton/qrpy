@@ -2,6 +2,6 @@
 build==1.1.1
 commitizen==3.16.0
 mypy==1.8.0
-ruff==0.3.0
+ruff==0.3.4
 types-Pillow==10.2.0.20240213
 twine==5.0.0
