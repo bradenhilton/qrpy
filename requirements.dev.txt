@@ -1,6 +1,6 @@
 -r requirements.txt
 build==1.2.1
-commitizen==3.28.0
+commitizen==3.29.0
 mypy==1.11.2
 ruff==0.6.3
 types-Pillow==10.2.0.20240822
